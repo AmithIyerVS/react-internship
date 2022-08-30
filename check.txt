@@ -1,0 +1,4 @@
+good morning
+this is a text
+lets find out
+what is merge conflict
