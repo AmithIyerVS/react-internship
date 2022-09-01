@@ -1,0 +1,14 @@
+* {
+    font-family:monospace;
+    color:#61dafb;
+    border-radius: 10px;
+    padding-inline-start: 5px;
+    }
+
+    
+    #submit{
+      border-radius: 10px;
+      font-size:larger;
+      width: 100px;
+      margin-bottom: 10px;
+    }

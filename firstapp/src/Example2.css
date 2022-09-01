@@ -1,0 +1,11 @@
+* {
+    color:#61dafb;
+}
+table, th, td {
+    border:1px solid #61dafb;
+    border-collapse: collapse;
+    text-align: center;
+  }
+  table {
+    width: 400px;
+  }
